@@ -1,4 +1,4 @@
-function borderNPM(){
+function borderNPM(options){
     let images = document.querySelectorAll('.borderNPM');
 
     if(options.shadow_type === 'hard')
