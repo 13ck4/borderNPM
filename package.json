@@ -1,0 +1,20 @@
+{
+  "name": "borderNPM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/13ck4/borderNPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13ck4/borderNPM/issues"
+  },
+  "homepage": "https://github.com/13ck4/borderNPM#readme"
+}
